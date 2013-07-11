@@ -13,5 +13,8 @@
         <Param name="search" value="{searchTerms}"/>
         <Param name="sourceid" value="Mozilla-search"/>
     </Url>
+    <Url type="application/opensearchdescription+xml"
+         rel="self"
+         template="https://raw.github.com/JeroenDeDauw/WikidataFirefoxSearch/deployed/wikidata.xml" />
     <moz:SearchForm>https://www.wikidata.org/wiki/Special:Search</moz:SearchForm>
 </OpenSearchDescription>
