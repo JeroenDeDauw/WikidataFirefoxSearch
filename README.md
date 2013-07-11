@@ -1,7 +1,8 @@
 Wikidata Firefox Search
 =======================
 
-Search plugin for [Wikidata](https://wikidata.org/),
+[FireFox](https://www.mozilla.org/en-US/firefox/new/)
+search plugin for [Wikidata](https://wikidata.org/),
 the free knowledge base that anyone can edit.
 
 Links
